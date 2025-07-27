@@ -1,0 +1,15 @@
+{
+  "name": "coffee-machine",
+  "version": "1.0.0",
+  "description": "A simple coffee machine program that allows users to select cup sizes and sugar amounts.",
+  "main": "src/coffeeMachine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
