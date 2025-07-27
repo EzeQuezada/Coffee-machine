@@ -1,3 +1,5 @@
+// src/coffeeMachine.js
+
 class CoffeeMachine {
     constructor() {
         this.cupSize = null;
@@ -29,4 +31,4 @@ class CoffeeMachine {
     }
 }
 
-export default CoffeeMachine;
+module.exports = CoffeeMachine;
